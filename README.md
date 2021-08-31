@@ -1,2 +1,2 @@
 # APS
-Diagramas desenvolvidos durante a cadeira de Analise e Desenvolvimento de Sistemas
+Diagramas desenvolvidos durante a cadeira de Analise e Projeto de Sistemas
